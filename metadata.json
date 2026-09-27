@@ -1,0 +1,6 @@
+{
+  "name": "Sanctuary Journal",
+  "description": "Secure, zero-knowledge AES-256 encrypted daily journal with Google authentication and rich text editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
